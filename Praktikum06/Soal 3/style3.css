@@ -1,0 +1,72 @@
+body {
+    background-color:  #0f4c5c;
+}
+
+.Nav1 {
+    background-color: #e36414;
+    height: 55px; 
+    width: 1247px;
+    margin: auto;
+}
+
+a {
+    color: rgb(0, 0, 0);
+    font-family:  'Poppins', sans-serif;
+    padding: 20px;
+    text-decoration: none;
+    
+}
+
+a:hover {
+    color: red;
+}
+
+.Music-bg {
+    background-color:  #fb8b24;
+    height: 200px;
+}
+
+.Music {
+    font-family: 'Poppins' sans-serif;
+    font-size: 60px;
+    text-align: center;
+}
+
+.Nav2 {
+    background-color: #e36414;
+    height: 55px; 
+}
+
+h2 {
+    font-family: 'Poppins' sans-serif;
+    color: white;
+    font-size: 30px;
+    margin-left: 400px;
+}
+
+p {
+    font-family: 'Poppins' sans-serif;
+    color: white;
+    font-size: 15px;
+    text-align:center right;
+    margin-left: 400px;
+    line-height: 4px;
+}
+
+button {
+    background-color: #5f0f40;
+    border-radius: 100%;
+    height: 80px;
+    color: #e36414;
+    margin-left: 1100px;
+    margin-top: 1200px;
+}
+
+#Log {
+    color: #000000;
+    margin-left: 700px;
+}
+
+#Log:hover {
+    color: red;
+}
